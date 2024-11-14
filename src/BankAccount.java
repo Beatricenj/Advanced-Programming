@@ -1,3 +1,6 @@
+SCT22-0153/2022
+NJENGA BEATRICE WAMBUI
+Question 1
 public class BankAccount {
     private String accountNumber;
     private double balance;
