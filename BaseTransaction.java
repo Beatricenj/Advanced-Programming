@@ -1,5 +1,8 @@
 
 /*Specifications for ADTs
+
+Issue #2: Incomplete Specification
+
 Updated Code for BaseTransaction.java
 */
 
